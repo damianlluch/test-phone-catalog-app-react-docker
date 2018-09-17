@@ -1,0 +1,31 @@
+.Header {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding: 20px;
+  background-color: #3C4043;
+  margin-bottom: 20px;
+}
+
+.Header a {
+  color: #F1F3F4;
+  text-decoration: none;
+}
+
+.Header h1 {
+  font-size: 1.7em;
+}
+
+@media (max-width: 1000px){
+	.Header{
+    padding: 18px;
+    margin-bottom: 18px;
+  }
+}
+
+@media (max-width: 600px){
+	.Header{
+    padding: 16px;
+    margin-bottom: 16px;    
+  }
+}

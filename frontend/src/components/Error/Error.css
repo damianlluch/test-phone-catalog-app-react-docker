@@ -1,0 +1,9 @@
+.Error {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.Error h2 {
+  color: red;
+}

@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PhoneList/> renders a list of phones 1`] = `
+<section
+  className="PhoneList"
+>
+  <a
+    href="/phones/iphone"
+    onClick={[Function]}
+  >
+    <article
+      className="PhoneListItem"
+    >
+      <img
+        alt="Apple iPhone X"
+        src="https://d2giyh01gjb6fi.cloudfront.net/phone_front/0001/88/thumb_87957_phone_front_big.jpeg"
+      />
+      <h2>
+        Apple iPhone X
+      </h2>
+      <p>
+        Diagonal: 5.8"
+      </p>
+      <p>
+        Capacity: 64 GB
+      </p>
+      <p>
+        <b>
+          more specs...
+        </b>
+      </p>
+    </article>
+  </a>
+  <a
+    href="/phones/galaxy"
+    onClick={[Function]}
+  >
+    <article
+      className="PhoneListItem"
+    >
+      <img
+        alt="Samsung Galaxy S9+"
+        src="https://d2giyh01gjb6fi.cloudfront.net/phone_front/0002/24/thumb_123965_phone_front_big.jpeg"
+      />
+      <h2>
+        Samsung Galaxy S9+
+      </h2>
+      <p>
+        Diagonal: 6.2"
+      </p>
+      <p>
+        Capacity: 64 GB
+      </p>
+      <p>
+        <b>
+          more specs...
+        </b>
+      </p>
+    </article>
+  </a>
+</section>
+`;
+
+exports[`<PhoneList/> renders an error 1`] = `
+<div
+  className="Error"
+>
+  <h2 />
+</div>
+`;
+
+exports[`<PhoneList/> renders by default 1`] = `
+<section
+  className="PhoneList"
+/>
+`;

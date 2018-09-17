@@ -1,0 +1,45 @@
+.PhoneDetails {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0 50px 0;
+}
+
+.PhoneDetails article {
+  background-color: #FFF;
+  color: #5F6368;
+  margin: 10px;
+  width: 720px;
+  max-width: 720px;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+.PhoneDetails article img {
+  height: 300px;
+}
+
+.PhoneDetails article p {
+  padding: 3px;
+}
+
+.PhoneDetails article h1 {
+  color: green;
+}
+
+@media (max-width: 1000px) {
+  .PhoneDetails article {
+    width: 70%;    
+    padding: 8px;
+    margin: 8px;  
+  }
+}
+
+@media (max-width: 600px) {
+  .PhoneDetails article {
+    width: 80%;
+    padding: 10px;
+    margin: 6px;    
+  }
+}

@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Spinner/> renders by default 1`] = `
+<div
+  className="Spinner"
+>
+  <div
+    className="css-jxiqlq"
+  >
+    <div
+      className="css-b2ebt3"
+    />
+    <div
+      className="css-1j42v1p"
+    />
+  </div>
+</div>
+`;

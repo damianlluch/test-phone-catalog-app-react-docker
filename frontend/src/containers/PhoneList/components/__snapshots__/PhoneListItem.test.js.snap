@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PhoneListItem/> renders by default 1`] = `
+<article
+  className="PhoneListItem"
+>
+  <img
+    alt={undefined}
+    src={undefined}
+  />
+  <h2 />
+  <p>
+    Diagonal: undefined"
+  </p>
+  <p>
+    Capacity: undefined
+  </p>
+  <p>
+    <b>
+      more specs...
+    </b>
+  </p>
+</article>
+`;

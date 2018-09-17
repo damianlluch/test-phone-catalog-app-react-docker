@@ -1,0 +1,32 @@
+{
+  "id": "galaxy",
+  "details": {
+    "title": "Samsung Galaxy S9+",
+    "brand": "Samsung",
+    "image":
+      "https://d2giyh01gjb6fi.cloudfront.net/phone_front/0002/24/thumb_123965_phone_front_big.jpeg",
+    "unveiled": "2018-02",
+    "status": "On Sale"
+  },
+  "design": {
+    "size": "73.8 mm x 158.0 mm x 8.5 mm",
+    "weight": "189 g",
+    "usableSurface": "83 %",
+    "colors": ["Black", "Cyan", "Gray", "Pink"]
+  },
+  "screen": {
+    "diagonal": "6.2",
+    "aspectRatio": "18:9",
+    "type": "Super Amoled",
+    "resolution": "1440 x 2960 px"
+  },
+  "hardware": {
+    "cpu": "Qualcomm Snapdragon 845",
+    "gpu": "Qualcomm Adreno 630",
+    "ram": "6 GB",
+    "capacity": ["64 GB", "128 GB", "256 GB"]
+  },
+  "performance": {
+    "antutuScore": "265.000"
+  }
+}

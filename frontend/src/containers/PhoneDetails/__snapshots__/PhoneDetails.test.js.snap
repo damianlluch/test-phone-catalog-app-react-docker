@@ -1,0 +1,168 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PhoneDetails/> renders an error 1`] = `
+<div
+  className="Error"
+>
+  <h2 />
+</div>
+`;
+
+exports[`<PhoneDetails/> renders by default 1`] = `
+<section
+  className="PhoneDetails"
+>
+  <article>
+    <h2>
+      Apple iPhone X
+    </h2>
+    <br />
+    <p>
+      <img
+        alt="Apple iPhone X"
+        src="https://d2giyh01gjb6fi.cloudfront.net/phone_front/0001/88/thumb_87957_phone_front_big.jpeg"
+      />
+    </p>
+  </article>
+  <article>
+    <h3>
+      Details
+    </h3>
+    <br />
+    <p>
+      <b>
+        Brand
+      </b>
+      : 
+      Apple
+    </p>
+    <p>
+      <b>
+        Unveiled
+      </b>
+      : 
+      2017-09
+    </p>
+    <p>
+      <b>
+        Status
+      </b>
+      : 
+      On Sale
+    </p>
+  </article>
+  <article>
+    <h3>
+      Design
+    </h3>
+    <br />
+    <p>
+      <b>
+        Size
+      </b>
+      : 
+      70.9 mm x 143.6 mm x 7.7 mm
+    </p>
+    <p>
+      <b>
+        Weight
+      </b>
+      : 
+      174 g
+    </p>
+    <p>
+      <b>
+        UsableSurface
+      </b>
+      : 
+      81 %
+    </p>
+    <p>
+      <b>
+        Colors
+      </b>
+      : 
+      Black - Cyan - Gray - Pink
+    </p>
+  </article>
+  <article>
+    <h3>
+      Screen
+    </h3>
+    <br />
+    <p>
+      <b>
+        Diagonal
+      </b>
+      : 
+      5.8
+    </p>
+    <p>
+      <b>
+        AspectRatio
+      </b>
+      : 
+      19:9
+    </p>
+    <p>
+      <b>
+        Type
+      </b>
+      : 
+      Oled
+    </p>
+    <p>
+      <b>
+        Resolution
+      </b>
+      : 
+      1125 x 2436 px
+    </p>
+  </article>
+  <article>
+    <h3>
+      Hardware
+    </h3>
+    <br />
+    <p>
+      <b>
+        CPU
+      </b>
+      : 
+      Apple A11 Bionic
+    </p>
+    <p>
+      <b>
+        GPU
+      </b>
+      : 
+      Apple three-core graphics processing unit + M11 mo
+    </p>
+    <p>
+      <b>
+        RAM
+      </b>
+      : 
+      3 GB
+    </p>
+    <p>
+      <b>
+        Capacity
+      </b>
+      : 
+      64 GB - 256 GB
+    </p>
+  </article>
+  <article>
+    <h3>
+      Antutu Score
+    </h3>
+    <br />
+    <h1
+      className="score"
+    >
+      245.149
+    </h1>
+  </article>
+</section>
+`;

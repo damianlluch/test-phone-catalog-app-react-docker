@@ -1,0 +1,34 @@
+{
+  "name": "test-phone-catalog-app-api",
+  "version": "1.0.0",
+  "description": "API RESTful",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelkashir/test-phone-catalog-app-api.git"
+  },
+  "keywords": [
+    "https://github.com/miguelkashir/test-phone-catalog-app-api.git"
+  ],
+  "author": "Miguel Kashir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelkashir/test-mm-backend/issues"
+  },
+  "homepage": "https://github.com/miguelkashir/test-mm-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0",
+    "nodemon": "^1.17.4"
+  }
+}

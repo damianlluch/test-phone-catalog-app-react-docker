@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header/> renders by default 1`] = `
+<header
+  className="Header"
+>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    <h1>
+      Phone Catalog App
+    </h1>
+  </a>
+</header>
+`;
